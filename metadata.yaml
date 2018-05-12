@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7899
     wikipedia: http://en.wikipedia.org/wiki/Agnes_Maule_Machar
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36243#Roland-Graeme--KnightA-Novel-of-Our-Time
 gutenberg_issued: '2011-05-28'
 gutenberg_type: Text
 identifiers:
